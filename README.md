@@ -1,4 +1,4 @@
-# Swift support, issue tracker and utilities
+# ODS Studio support, issue tracker and utilities
 
 Support repository related to the **ODS Studio** modelling framework for **Blender**. This repo is intended to: 
 * raise and track issues;
